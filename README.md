@@ -18,6 +18,7 @@ jika mengalami masalah saat install pddiktipy coba menggunakan ini
 python3 -m venv myvenv
 source myvenv/bin/activate
 pip install pddiktipy
+python3 main.py
 ```
 
 atau ini
